@@ -1,25 +1,9 @@
 ````markdown
-## Project Title
+## Persnal finace manage
 
-**Rustic Tower** (placeholder name – replace with your app’s actual name)
+**PFM** 
 
 A modern, TypeScript-based React application for personal finance management, built with Vite, Tailwind CSS, and Supabase.
-
----
-
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Database Setup](#database-setup)
-- [Running the App](#running-the-app)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -55,8 +39,8 @@ A modern, TypeScript-based React application for personal finance management, bu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/lighty7/FNS.git
+   cd FNS
 ````
 
 2. Install dependencies:
